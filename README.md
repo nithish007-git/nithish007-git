@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm nithish(hackerfeast)</h1>
+<h1 align="center">Hi 👋, I'm nithish</h1>
 <h3 align="center">A passionate  developer from India</h3>
 
 - 🔭 I’m currently working on **web dev**
