@@ -15,3 +15,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithish007-git)](https://github.com/anuraghazra/github-readme-stats)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cly5zhgvn7j20ubo1tnvspuom&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
